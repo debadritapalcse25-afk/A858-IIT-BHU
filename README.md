@@ -1,6 +1,6 @@
 # A858-IIT-BHU
-**A858 IIT BHU**
-**Challenge Overview**
+**A858 IIT BHU**\n
+**Challenge Overview**\n
 We were given a challenge named A858 IIT BHU. The challenge involved multiple layers of puzzles — starting with a text file and leading us through Pastebin, Reddit pages, cryptography, physical searching on campus, and finally reconstructing a QR code to retrieve the answer.
 ________________________________________
 **Step 1: Initial File (AAA.txt)**
